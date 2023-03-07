@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Gonzalez
 - 👀 I’m interested in web Development frontend/backend
-- 🌱 I’m learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m learning HTML, CSS, JavaScript
 - 📫 How to reach me <a href="https://www.linkedin.com/in/michael-steven-gonzalez-5a6518122/">Linkedin,</a> 
 <a href="https://www.facebook.com/michaelsteven.gonzaleztabima">Facebook</a>
 <!---
